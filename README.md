@@ -6,3 +6,4 @@ Edit README.md manually and change first line.
 Modify README without committing.
 Switch main and commit something else.
 Commit something.
+Main line evolution
